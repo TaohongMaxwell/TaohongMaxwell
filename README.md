@@ -4,8 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TaohongMaxwell" alt="TaohongMaxwell" /></a> </p>
 
-- 🔭 I'm currently working on **CST Studio Suite application and automation developing
-AI coding**
+- 🔭 I'm currently working on **CST Studio Suite application, automation developing, and AI coding.**
 
 - 💬 Ask me about **CST with Python**
 
