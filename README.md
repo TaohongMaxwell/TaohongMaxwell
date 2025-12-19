@@ -1,14 +1,12 @@
 # Hi 👋, I'm Hong TAO
 
-### A EM simulation engineer for Dassault Systèmes
+### An EM simulation engineer for Dassault Systèmes
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TaohongMaxwell" alt="TaohongMaxwell" /></a> </p>
 
 - 🔭 I'm currently working on **CST Studio Suite application, automation developing, and AI coding.**
 
 - 💬 Ask me about **CST with Python**
-
-- 📫 How to reach me **taohong_max@outlook.com**
 
 - 📝 I regularly write articles on **[https://taohongmaxwell.github.io/](https://taohongmaxwell.github.io/)**
 
